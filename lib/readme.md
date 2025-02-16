@@ -18,7 +18,7 @@ Welcome to my **Flutter Daily Package Explorer** project! In this repository, I 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/flutter-daily-package-explorer.git
+   git clone https://github.com/abdullah-dev01/flutter-daily-package-explorer.git
    cd flutter-daily-package-explorer
    ```
 
@@ -74,9 +74,9 @@ If you'd like to contribute to this project, feel free to:
 
 ## **Connect with Me** 🌐
 
-- **GitHub**: [Your GitHub Profile](https://github.com/abdullah-dev01)
+- **GitHub**: [AbdullahAnsari](https://github.com/abdullah-dev01)
 <!-- - **Twitter**: [Your Twitter Handle](https://twitter.com/your-handle) -->
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/abdullah-ansari-2917411a2)
+- **LinkedIn**: [AbdullahAnsari](www.linkedin.com/in/abdullah-ansari-2917411a2)
 
 ---
 
